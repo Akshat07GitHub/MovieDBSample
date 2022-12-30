@@ -1,0 +1,14 @@
+Check node version by node -v 
+check npm is installed or not npm -v 
+if installed 
+type commant npm run serve in current directory for dev server
+application will be served from the localhost 7000 
+http://localhost:7000/
+else
+install node and npm and then follow the previous commands
+
+
+
+there are couple of things that needs to be fixed 
+cache behaviour is not working properly 
+and remove query result from the state not sure why!!
